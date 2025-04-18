@@ -11,5 +11,5 @@
 - 👁️ API: Swagger
 
 ## Контакты
-- Почта: [ilyaovchinnikov2095@gmail.com](ilyaovchinnikov2095@gmail.com)
+- Почта: ilyaovchinnikov2095@gmail.com
 - Telegram: [@aesaqq](t.me/aesaqq)
